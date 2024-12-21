@@ -2,7 +2,7 @@
 
 # Guia para Criação da Planilha de Controle de Gastos
 
-Este documento explica como a planilha CONTROLE DE GASTO.xlsx foi criada, detalhando os dados, gráficos e tabelas dinâmicas. Ele é útil para quem deseja replicar ou documentar o processo no GitHub.
+Este documento explica como a planilha Planilha de Controle de Gastos.xlsx foi criada, detalhando os dados, gráficos e tabelas dinâmicas. Ele é útil para quem deseja replicar ou documentar o processo no GitHub.
 
 
 ## 1. Estrutura e organização dos dados (Planilha DATA)
