@@ -1,5 +1,18 @@
 # Como-organizar-sua-vida-Financeira-com-Planilhas-Inteligentes-e-IA-
 
+![1](https://github.com/user-attachments/assets/4b373f25-74cd-48d0-9350-3b6ec86ca809)
+
+
+![2](https://github.com/user-attachments/assets/8301981f-931e-4901-a616-d994ac960aad)
+
+![3](https://github.com/user-attachments/assets/ff76ccfb-320c-4eaf-b019-61925b924742)
+
+![4](https://github.com/user-attachments/assets/84df21d3-bb81-49cf-b185-e9922847bf04)
+
+
+
+
+
 # Guia para Criação da Planilha de Controle de Gastos
 
 Este documento explica como a planilha Planilha de Controle de Gastos.xlsx foi criada, detalhando os dados, gráficos e tabelas dinâmicas. Ele é útil para quem deseja replicar ou documentar o processo no GitHub.
